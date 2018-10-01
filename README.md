@@ -1,2 +1,2 @@
 # animated-octo-palm-tree
-simple java program that illustrate
+simple java program that illustrates how to work with arrays
